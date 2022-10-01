@@ -9,7 +9,7 @@
 		<relativePath/>
 		<!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.algafood.admin.server</groupId>
+	<groupId>br.com.sampa.food.admin.server</groupId>
 	<artifactId>sampa-food-admin-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sampa-food-admin-server</name>
