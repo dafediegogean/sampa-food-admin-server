@@ -1,4 +1,4 @@
-package br.com.algafood.admin.server.sampafoodadminserver;
+package br.com.sampafood.admin.server.config;
 
 import java.util.UUID;
 
